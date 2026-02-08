@@ -1,16 +1,73 @@
 ## Hi there 👋
 
-<!--
-**ValdeniseNS/ValdeniseNS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩🏻‍💻 **`Sou uma Futura Cientista de Dados`** 
 
-Here are some ideas to get you started:
+Chamo-me Valdenise, tenho 33 anos e sou natural da Paraíba. Licenciada em Matemática (UFCG) e graduanda em Estatística (UEPB), com especialização em Ensino de Matemática para o Ensino Médio (IFRN). Possuo experiência como monitora de Inferência Estatística e sólida formação complementar em análise de dados, estatística aplicada e ferramentas computacionais (R, Excel, Power BI). Interesso-me por modelagem estatística, processos estocásticos e metodologias ativas de ensino. Sou apaixonada pela Estatística e atualmente sou bolsista no projeto **ESTUDO ESTATÍSTICO DA QUALIDADE DOS DADOS ADMINISTRATIVOS BRASILEIROS COMO BASE PARA TOMADAS DE DECISÃO**.  
+Meu Currículo: [Lattes](https://lattes.cnpq.br/0640290162907725)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+    <a href="https://www.youtube.com/@valdenisenobertodossantos5228">
+        <img 
+            alt="youtube subscribers" 
+            title="Inscreva-se no meu canal" 
+            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCrNLJ_e8Jx6hMIhcUmkS_4w?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+        />
+    </a>
+    <a href="https://www.youtube.com/@valdenisenobertodossantos5228">
+        <img 
+            alt="youtube views" 
+            title="Visualizações no YouTube" 
+            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCrNLJ_e8Jx6hMIhcUmkS_4w?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
+        />
+    </a> 
+    <a href="https://github.com/ValdeniseNS?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/ValdeniseNS?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
+        />
+    </a>
+    <a href="https://github.com/ValdeniseNS?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Siga-me no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/ValdeniseNS?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
+
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
+<img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" />
+<img align="left" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" />
+<img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+
+<br/>
+<br/>
+
+---
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="180" 
+    src="https://github-readme-stats.vercel.app/api?username=ValdeniseNS&cache_seconds=86400&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+  <img 
+    align="left" 
+    alt="Top Langs" 
+    height="180" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValdeniseNS&cache_seconds=86400&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+</p>
+
+
