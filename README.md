@@ -1,9 +1,20 @@
-## Hi there 👋
+## Olá 👋  
 
-👩🏻‍💻 **`Sou uma Futura Cientista de Dados`** 
+👩🏻‍💻 **Futura Cientista de Dados | Estatística | Análise de Dados**
 
-Chamo-me Valdenise, tenho 33 anos e sou natural da Paraíba. Licenciada em Matemática (UFCG) e graduanda em Estatística (UEPB), com especialização em Ensino de Matemática para o Ensino Médio (IFRN). Possuo experiência como monitora de Inferência Estatística e sólida formação complementar em análise de dados, estatística aplicada e ferramentas computacionais (R, Excel, Power BI). Interesso-me por modelagem estatística, processos estocásticos e metodologias ativas de ensino. Sou apaixonada pela Estatística e atualmente sou bolsista no projeto **ESTUDO ESTATÍSTICO DA QUALIDADE DOS DADOS ADMINISTRATIVOS BRASILEIROS COMO BASE PARA TOMADAS DE DECISÃO**.  
-Meu Currículo: [Lattes](https://lattes.cnpq.br/0640290162907725)
+Me chamo **Valdenise**, tenho 33 anos e sou natural da Paraíba. Sou **Licenciada em Matemática (UFCG)** e graduanda em **Estatística (UEPB)**, com especialização em Ensino de Matemática para o Ensino Médio (IFRN).  
+
+Atuo como **monitora de Inferência Estatística** e possuo sólida formação em **análise de dados**, **estatística aplicada** e **ferramentas computacionais** (R, Excel, Power BI, Python).  
+Tenho interesse em **modelagem estatística**, **processos estocásticos**, **qualidade dos dados** e **metodologias ativas de ensino**.
+
+Atualmente, sou bolsista no projeto:  
+📌 **Estudo Estatístico da Qualidade dos Dados Administrativos Brasileiros como Base para Tomadas de Decisão**  
+
+🔗 **Currículo Lattes:** https://lattes.cnpq.br/0640290162907725
+
+---
+
+## 🔗 Redes e Estatísticas
 
 <p align="left">
     <a href="https://www.youtube.com/@valdenisenobertodossantos5228">
@@ -38,21 +49,20 @@ Meu Currículo: [Lattes](https://lattes.cnpq.br/0640290162907725)
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 🤖 Linguagens e Tecnologias
 
-<img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
-<img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
+<img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" />
 <img align="left" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" />
-<img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+<img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 
-<br/>
-<br/>
+<br/><br/>
 
 ---
 
-### 📊 Estatísticas
+## 📊 Estatísticas
 
 <p>
   <img 
@@ -69,5 +79,7 @@ Meu Currículo: [Lattes](https://lattes.cnpq.br/0640290162907725)
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValdeniseNS&cache_seconds=86400&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
+
+
 
 
