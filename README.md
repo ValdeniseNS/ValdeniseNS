@@ -1,7 +1,5 @@
 ## Olá 👋  
 
-👩🏻‍💻 **Futura Cientista de Dados | Estatística | Análise de Dados**
-
 Me chamo **Valdenise**, tenho 33 anos e sou natural da Paraíba. Sou **Licenciada em Matemática (UFCG)** e graduanda em **Estatística (UEPB)**, com especialização em Ensino de Matemática para o Ensino Médio (IFRN).  
 
 Atuo como **monitora de Inferência Estatística** e possuo sólida formação em **análise de dados**, **estatística aplicada** e **ferramentas computacionais** (R, Excel, Power BI, Python).  
