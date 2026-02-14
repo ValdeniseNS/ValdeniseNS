@@ -47,7 +47,7 @@ Atualmente, sou bolsista no projeto:
 
 ---
 
-## 🤖 Linguagens e Tecnologias
+## 🤖 Linguagens e Tecnologias que mais uso no meu dia a dia:
 
 <img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
 <img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
