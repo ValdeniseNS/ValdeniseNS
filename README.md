@@ -1,6 +1,6 @@
 ## Olá 👋  
 
-Me chamo **Valdenise**, tenho 33 anos e sou natural da Paraíba. Sou **Licenciada em Matemática (UFCG)** e graduanda em **Estatística (UEPB)**, com especialização em Ensino de Matemática para o Ensino Médio (IFRN).  
+Chamo-me **Valdenise**, tenho 33 anos e sou natural da Paraíba. Sou **Licenciada em Matemática (UFCG)** e graduanda em **Estatística (UEPB)**, com especialização em Ensino de Matemática para o Ensino Médio (IFRN).  
 
 Atuo como **monitora de Inferência Estatística** e possuo formação em **análise de dados**, **estatística aplicada** e **ferramentas computacionais** (R, Excel, Power BI, Python).  
 Tenho interesse em **modelagem estatística**, **processos estocásticos**, **qualidade dos dados** e **metodologias ativas de ensino**.
