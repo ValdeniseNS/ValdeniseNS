@@ -6,7 +6,7 @@ Atuo como **monitora de Inferência Estatística** e possuo formação em **aná
 Tenho interesse em **modelagem estatística**, **processos estocásticos**, **qualidade dos dados** e **metodologias ativas de ensino**.
 
 Atualmente, sou bolsista no projeto:  
-📌 **Estudo Estatístico da Qualidade dos Dados Administrativos Brasileiros como Base para Tomadas de Decisão**; e na  
+📌 **Estudo Estatístico da Qualidade dos Dados Administrativos Brasileiros como Base para Tomadas de Decisão**; e na 
 
 🎓 **Especialização em Estatística Computacional Aplicada - UFMG**.
 
