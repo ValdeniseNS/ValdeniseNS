@@ -5,10 +5,7 @@ Chamo-me **Valdenise**, tenho 34 anos e sou natural da Paraíba. Sou **Licenciad
 Atuo como **monitora de Inferência Estatística** e possuo formação em **análise de dados**, **estatística aplicada** e **ferramentas computacionais** (R, Excel, Power BI, Python).  
 Tenho interesse em **modelagem estatística**, **processos estocásticos**, **qualidade dos dados** e **metodologias ativas de ensino**.
 
-Atualmente, sou bolsista no projeto:  
-📌 **Estudo Estatístico da Qualidade dos Dados Administrativos Brasileiros como Base para Tomadas de Decisão**; e na 
-
-🎓 **Especialização em Estatística Computacional Aplicada - UFMG**.
+Atualmente, sou bolsista no projeto **"Estudo Estatístico da Qualidade dos Dados Administrativos Brasileiros como Base para Tomadas de Decisão"**, e na **"Especialização em Estatística Computacional Aplicada - UFMG"**.
 
 🔗 **Currículo Lattes:** https://lattes.cnpq.br/0640290162907725
 
