@@ -9,6 +9,7 @@ Atualmente, sou bolsista no projeto **"Estudo Estatístico da Qualidade dos Dado
 
 🔗 **Currículo Lattes:** https://lattes.cnpq.br/0640290162907725
 
+🔗 **Portfólio:**  https://valdenisens.github.io/portifolio/pagina_inicial.html
 ---
 
 ## 🔗 Redes e Estatísticas
